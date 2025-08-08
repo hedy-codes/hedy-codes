@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Hedye Azizi 👋</h1>
+<h1>Hi there, I'm Hedye Azizi 👋</h1>
 
-<p align="center">
+<p>
   💻 Frontend Developer in progress | 🌱 Learning Full-Stack Development
 </p>
 
