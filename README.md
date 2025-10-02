@@ -53,12 +53,6 @@ I'm passionate about building user-friendly web applications and continuously im
 
 ---
 
-## GitHub Stats
-
-![Hedye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedy-codes&show_icons=true&theme=radical)
-
----
-
 ## GitHub Activity Graph
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hedy-codes&theme=radical)
